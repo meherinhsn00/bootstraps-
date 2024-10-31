@@ -1,0 +1,40 @@
+/* phone */
+@media (max-width:575px){
+    nav{
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+nav .navbar-toggler{
+    border: none;
+    font-size: 25px;
+   
+}
+nav .navbar-toggler:focus{
+    box-shadow: none;
+} 
+nav #imp li a.nav-link{
+    padding: 12px 25px;
+}
+
+nav #imp{
+    padding-top: 10px 0;
+}
+#banner h1{
+    font-size: 42px;
+}
+.img-fluid{
+    max-width: 60%;
+}
+#banner{
+    padding: 35px 0;
+}
+}
+    
+
+
+
+
+/* Desktop */
+@media (min-width:992px){
+
+}
